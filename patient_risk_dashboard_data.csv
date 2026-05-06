@@ -1,0 +1,501 @@
+Patient,Age,Diagnosis,Ward,HeartRate,BP,RiskScore,RiskCategory,Date
+Patient_1,69,Asthma,Ward D,62,123,42,Low,31-08-2025
+Patient_2,32,Pneumonia,Ward D,89,159,40,Low,30-11-2025
+Patient_3,89,Hypertension,Ward E,74,128,58,Low,28-02-2025
+Patient_4,78,Asthma,Ward A,86,93,82,High,31-03-2025
+Patient_5,38,Pneumonia,Ward A,78,131,17,Low,31-10-2025
+Patient_6,41,Heart Disease,Ward E,79,125,91,High,31-01-2025
+Patient_7,20,Heart Disease,Ward C,80,139,55,Low,30-11-2025
+Patient_8,39,Pneumonia,Ward C,79,130,50,Low,28-02-2025
+Patient_9,70,Pneumonia,Ward C,81,117,59,Low,31-07-2025
+Patient_10,19,Hypertension,Ward E,88,101,43,Low,31-10-2025
+Patient_11,47,Hypertension,Ward A,76,116,56,Low,28-02-2025
+Patient_12,55,Heart Disease,Ward E,82,107,62,Moderate,30-06-2025
+Patient_13,19,Asthma,Ward E,74,111,44,Low,31-03-2025
+Patient_14,81,Heart Disease,Ward C,89,128,68,Moderate,30-04-2025
+Patient_15,77,Asthma,Ward B,68,145,58,Low,30-11-2025
+Patient_16,38,Asthma,Ward A,93,125,48,Low,31-08-2025
+Patient_17,50,Hypertension,Ward C,74,102,46,Low,31-03-2025
+Patient_18,75,Diabetes,Ward B,60,126,72,Moderate,31-10-2025
+Patient_19,39,Diabetes,Ward B,76,137,55,Low,30-06-2025
+Patient_20,66,Pneumonia,Ward D,68,110,13,Low,31-01-2025
+Patient_21,76,Hypertension,Ward A,83,117,72,Moderate,31-07-2025
+Patient_22,59,Asthma,Ward B,68,120,54,Low,31-08-2025
+Patient_23,77,Diabetes,Ward C,70,108,59,Low,30-11-2025
+Patient_24,32,Asthma,Ward D,56,129,32,Low,31-08-2025
+Patient_25,79,Diabetes,Ward A,70,118,76,Moderate,31-03-2025
+Patient_26,79,Diabetes,Ward E,50,126,69,Moderate,31-10-2025
+Patient_27,64,Diabetes,Ward C,59,106,39,Low,31-01-2025
+Patient_28,79,Hypertension,Ward B,82,113,69,Moderate,30-09-2025
+Patient_29,68,Heart Disease,Ward B,82,130,46,Low,30-06-2025
+Patient_30,72,Asthma,Ward C,79,114,40,Low,30-11-2025
+Patient_31,81,Hypertension,Ward B,65,145,53,Low,30-09-2025
+Patient_32,20,Hypertension,Ward D,74,114,49,Low,31-07-2025
+Patient_33,68,Hypertension,Ward A,74,123,71,Moderate,31-01-2025
+Patient_34,24,Hypertension,Ward D,63,133,44,Low,31-12-2025
+Patient_35,38,Hypertension,Ward B,90,98,58,Low,31-12-2025
+Patient_36,56,Pneumonia,Ward E,83,93,60,Low,31-01-2025
+Patient_37,35,Asthma,Ward A,72,97,32,Low,30-06-2025
+Patient_38,21,Hypertension,Ward A,75,138,45,Low,31-05-2025
+Patient_39,77,Asthma,Ward C,77,111,72,Moderate,30-09-2025
+Patient_40,31,Pneumonia,Ward C,54,158,49,Low,28-02-2025
+Patient_41,26,Pneumonia,Ward E,72,111,55,Low,31-08-2025
+Patient_42,70,Asthma,Ward A,68,122,66,Moderate,30-11-2025
+Patient_43,19,Diabetes,Ward E,64,143,40,Low,31-05-2025
+Patient_44,77,Heart Disease,Ward C,72,150,77,Moderate,28-02-2025
+Patient_45,88,Diabetes,Ward C,92,150,72,Moderate,31-10-2025
+Patient_46,61,Diabetes,Ward A,81,138,45,Low,30-11-2025
+Patient_47,25,Diabetes,Ward D,69,135,36,Low,30-11-2025
+Patient_48,64,Hypertension,Ward B,80,128,47,Low,31-12-2025
+Patient_49,52,Pneumonia,Ward C,88,131,46,Low,30-06-2025
+Patient_50,53,Diabetes,Ward C,84,111,51,Low,31-10-2025
+Patient_51,67,Pneumonia,Ward D,75,107,45,Low,31-08-2025
+Patient_52,21,Asthma,Ward D,68,119,31,Low,30-04-2025
+Patient_53,19,Heart Disease,Ward E,81,117,12,Low,28-02-2025
+Patient_54,23,Asthma,Ward E,78,113,42,Low,31-12-2025
+Patient_55,71,Asthma,Ward B,83,130,62,Moderate,30-11-2025
+Patient_56,21,Hypertension,Ward B,81,134,29,Low,31-05-2025
+Patient_57,71,Heart Disease,Ward A,85,121,71,Moderate,31-12-2025
+Patient_58,80,Asthma,Ward E,69,142,75,Moderate,28-02-2025
+Patient_59,35,Asthma,Ward C,88,102,23,Low,28-02-2025
+Patient_60,61,Heart Disease,Ward E,76,117,44,Low,30-06-2025
+Patient_61,51,Heart Disease,Ward C,95,109,44,Low,30-11-2025
+Patient_62,79,Asthma,Ward D,68,92,45,Low,31-10-2025
+Patient_63,31,Heart Disease,Ward E,92,118,58,Low,30-09-2025
+Patient_64,65,Asthma,Ward D,76,118,53,Low,30-04-2025
+Patient_65,32,Asthma,Ward B,68,142,38,Low,30-06-2025
+Patient_66,89,Hypertension,Ward B,70,129,37,Low,31-07-2025
+Patient_67,79,Diabetes,Ward A,71,104,69,Moderate,30-11-2025
+Patient_68,57,Asthma,Ward E,79,147,38,Low,30-06-2025
+Patient_69,70,Pneumonia,Ward D,80,138,62,Moderate,31-08-2025
+Patient_70,41,Diabetes,Ward C,69,128,49,Low,30-04-2025
+Patient_71,43,Diabetes,Ward B,74,116,65,Moderate,31-12-2025
+Patient_72,77,Diabetes,Ward B,96,105,48,Low,31-01-2025
+Patient_73,58,Hypertension,Ward C,92,114,15,Low,31-07-2025
+Patient_74,46,Asthma,Ward D,79,136,53,Low,31-03-2025
+Patient_75,32,Hypertension,Ward D,75,148,69,Moderate,30-06-2025
+Patient_76,62,Asthma,Ward E,76,143,74,Moderate,28-02-2025
+Patient_77,82,Hypertension,Ward E,81,112,67,Moderate,30-09-2025
+Patient_78,88,Hypertension,Ward A,64,103,55,Low,31-01-2025
+Patient_79,26,Pneumonia,Ward B,72,122,50,Low,30-06-2025
+Patient_80,18,Hypertension,Ward E,58,93,16,Low,30-06-2025
+Patient_81,25,Heart Disease,Ward D,78,124,47,Low,31-05-2025
+Patient_82,80,Pneumonia,Ward C,81,117,71,Moderate,31-05-2025
+Patient_83,28,Hypertension,Ward D,70,113,53,Low,31-01-2025
+Patient_84,25,Diabetes,Ward B,90,96,80,Moderate,31-10-2025
+Patient_85,52,Heart Disease,Ward D,62,127,53,Low,31-12-2025
+Patient_86,52,Heart Disease,Ward A,60,112,39,Low,31-05-2025
+Patient_87,50,Heart Disease,Ward B,77,102,49,Low,28-02-2025
+Patient_88,22,Pneumonia,Ward C,85,76,13,Low,31-07-2025
+Patient_89,58,Hypertension,Ward A,91,119,48,Low,31-03-2025
+Patient_90,45,Hypertension,Ward B,70,146,42,Low,30-04-2025
+Patient_91,24,Diabetes,Ward C,85,144,36,Low,31-03-2025
+Patient_92,89,Diabetes,Ward A,74,113,67,Moderate,31-03-2025
+Patient_93,29,Heart Disease,Ward A,73,110,28,Low,30-04-2025
+Patient_94,51,Diabetes,Ward B,83,127,69,Moderate,31-05-2025
+Patient_95,50,Pneumonia,Ward E,81,105,50,Low,31-01-2025
+Patient_96,65,Hypertension,Ward A,59,124,52,Low,30-04-2025
+Patient_97,40,Heart Disease,Ward A,89,131,46,Low,31-12-2025
+Patient_98,79,Diabetes,Ward C,88,138,69,Moderate,31-12-2025
+Patient_99,54,Pneumonia,Ward D,68,118,61,Moderate,30-11-2025
+Patient_100,61,Pneumonia,Ward B,78,116,43,Low,31-08-2025
+Patient_101,52,Diabetes,Ward B,79,106,42,Low,31-10-2025
+Patient_102,82,Hypertension,Ward E,77,107,59,Low,31-07-2025
+Patient_103,64,Diabetes,Ward E,69,116,35,Low,30-09-2025
+Patient_104,20,Heart Disease,Ward B,68,125,24,Low,31-05-2025
+Patient_105,18,Diabetes,Ward E,74,133,30,Low,31-10-2025
+Patient_106,22,Pneumonia,Ward C,86,107,52,Low,30-04-2025
+Patient_107,31,Diabetes,Ward B,80,142,48,Low,31-08-2025
+Patient_108,44,Hypertension,Ward E,71,115,49,Low,30-09-2025
+Patient_109,26,Asthma,Ward B,82,119,53,Low,31-07-2025
+Patient_110,32,Diabetes,Ward D,46,108,31,Low,31-07-2025
+Patient_111,59,Hypertension,Ward A,86,83,59,Low,31-05-2025
+Patient_112,68,Hypertension,Ward B,57,133,52,Low,30-04-2025
+Patient_113,80,Pneumonia,Ward A,71,131,66,Moderate,31-10-2025
+Patient_114,69,Hypertension,Ward E,63,115,46,Low,31-01-2025
+Patient_115,21,Hypertension,Ward A,62,121,0,,31-10-2025
+Patient_116,40,Hypertension,Ward B,86,127,47,Low,31-10-2025
+Patient_117,32,Hypertension,Ward D,70,96,59,Low,31-07-2025
+Patient_118,60,Heart Disease,Ward E,78,112,67,Moderate,31-01-2025
+Patient_119,46,Heart Disease,Ward B,74,131,62,Moderate,31-01-2025
+Patient_120,53,Pneumonia,Ward E,79,101,68,Moderate,31-05-2025
+Patient_121,30,Diabetes,Ward C,75,124,43,Low,30-09-2025
+Patient_122,49,Hypertension,Ward A,62,99,47,Low,30-06-2025
+Patient_123,88,Diabetes,Ward C,84,126,60,Low,31-03-2025
+Patient_124,76,Diabetes,Ward B,70,119,55,Low,31-03-2025
+Patient_125,45,Pneumonia,Ward D,59,95,50,Low,31-07-2025
+Patient_126,83,Hypertension,Ward E,70,137,80,Moderate,30-06-2025
+Patient_127,59,Hypertension,Ward A,90,108,55,Low,30-09-2025
+Patient_128,62,Asthma,Ward E,83,107,50,Low,30-06-2025
+Patient_129,79,Diabetes,Ward B,71,123,61,Moderate,31-05-2025
+Patient_130,74,Diabetes,Ward E,71,137,68,Moderate,31-10-2025
+Patient_131,23,Heart Disease,Ward A,71,104,16,Low,31-07-2025
+Patient_132,45,Asthma,Ward B,95,120,21,Low,31-01-2025
+Patient_133,45,Heart Disease,Ward E,78,126,41,Low,31-12-2025
+Patient_134,61,Heart Disease,Ward D,79,130,39,Low,31-07-2025
+Patient_135,47,Heart Disease,Ward B,85,122,44,Low,31-03-2025
+Patient_136,79,Pneumonia,Ward B,77,114,60,Low,30-09-2025
+Patient_137,79,Pneumonia,Ward D,72,107,54,Low,30-06-2025
+Patient_138,18,Heart Disease,Ward C,73,121,56,Low,30-09-2025
+Patient_139,44,Asthma,Ward A,74,103,50,Low,31-05-2025
+Patient_140,79,Diabetes,Ward C,74,76,63,Moderate,31-07-2025
+Patient_141,20,Asthma,Ward E,82,126,48,Low,30-04-2025
+Patient_142,87,Hypertension,Ward D,75,133,50,Low,31-07-2025
+Patient_143,89,Pneumonia,Ward C,82,84,80,Moderate,31-01-2025
+Patient_144,44,Diabetes,Ward B,74,104,45,Low,31-07-2025
+Patient_145,26,Diabetes,Ward E,75,129,50,Low,31-08-2025
+Patient_146,79,Hypertension,Ward E,55,150,43,Low,31-05-2025
+Patient_147,54,Hypertension,Ward C,84,120,32,Low,28-02-2025
+Patient_148,68,Heart Disease,Ward C,78,109,69,Moderate,31-05-2025
+Patient_149,61,Pneumonia,Ward D,84,117,62,Moderate,30-06-2025
+Patient_150,41,Pneumonia,Ward A,46,140,27,Low,31-12-2025
+Patient_151,76,Asthma,Ward C,95,110,53,Low,28-02-2025
+Patient_152,49,Heart Disease,Ward C,73,108,64,Moderate,30-06-2025
+Patient_153,69,Heart Disease,Ward B,86,112,44,Low,30-06-2025
+Patient_154,79,Heart Disease,Ward E,64,105,81,High,31-01-2025
+Patient_155,75,Heart Disease,Ward A,81,121,49,Low,31-01-2025
+Patient_156,69,Pneumonia,Ward B,64,144,65,Moderate,30-11-2025
+Patient_157,29,Pneumonia,Ward D,68,124,35,Low,31-10-2025
+Patient_158,56,Heart Disease,Ward D,94,116,66,Moderate,31-03-2025
+Patient_159,19,Asthma,Ward C,73,115,28,Low,31-10-2025
+Patient_160,20,Diabetes,Ward C,77,96,34,Low,31-10-2025
+Patient_161,73,Diabetes,Ward D,83,133,63,Moderate,31-12-2025
+Patient_162,76,Asthma,Ward C,79,118,48,Low,31-03-2025
+Patient_163,19,Heart Disease,Ward A,76,117,47,Low,30-04-2025
+Patient_164,19,Pneumonia,Ward C,78,167,34,Low,28-02-2025
+Patient_165,71,Diabetes,Ward E,99,124,62,Moderate,30-09-2025
+Patient_166,18,Hypertension,Ward C,74,108,21,Low,31-10-2025
+Patient_167,36,Hypertension,Ward B,77,113,8,Low,31-12-2025
+Patient_168,19,Asthma,Ward A,85,137,38,Low,30-11-2025
+Patient_169,70,Heart Disease,Ward B,86,121,95,High,31-07-2025
+Patient_170,61,Diabetes,Ward B,86,98,67,Moderate,31-07-2025
+Patient_171,49,Heart Disease,Ward E,81,133,52,Low,30-06-2025
+Patient_172,87,Diabetes,Ward A,63,109,57,Low,31-03-2025
+Patient_173,49,Asthma,Ward A,91,148,56,Low,30-06-2025
+Patient_174,85,Asthma,Ward A,63,136,70,Moderate,31-12-2025
+Patient_175,72,Hypertension,Ward A,78,113,43,Low,31-08-2025
+Patient_176,73,Heart Disease,Ward A,67,139,74,Moderate,31-08-2025
+Patient_177,34,Hypertension,Ward E,74,121,53,Low,30-11-2025
+Patient_178,55,Heart Disease,Ward C,78,132,64,Moderate,30-09-2025
+Patient_179,41,Hypertension,Ward B,78,127,53,Low,31-01-2025
+Patient_180,86,Pneumonia,Ward A,79,107,65,Moderate,31-01-2025
+Patient_181,87,Pneumonia,Ward C,91,110,78,Moderate,31-03-2025
+Patient_182,28,Pneumonia,Ward C,79,135,51,Low,31-03-2025
+Patient_183,33,Pneumonia,Ward B,72,114,36,Low,31-10-2025
+Patient_184,76,Diabetes,Ward E,84,113,55,Low,31-08-2025
+Patient_185,87,Pneumonia,Ward D,86,105,69,Moderate,31-10-2025
+Patient_186,20,Asthma,Ward D,62,126,56,Low,31-01-2025
+Patient_187,37,Asthma,Ward C,80,150,31,Low,28-02-2025
+Patient_188,76,Diabetes,Ward B,82,103,41,Low,28-02-2025
+Patient_189,53,Pneumonia,Ward D,72,120,53,Low,31-03-2025
+Patient_190,36,Pneumonia,Ward C,88,141,50,Low,30-06-2025
+Patient_191,84,Pneumonia,Ward E,73,118,66,Moderate,31-01-2025
+Patient_192,36,Hypertension,Ward D,76,126,48,Low,28-02-2025
+Patient_193,37,Heart Disease,Ward C,73,104,40,Low,31-01-2025
+Patient_194,88,Hypertension,Ward C,75,126,87,High,31-05-2025
+Patient_195,69,Heart Disease,Ward A,64,117,32,Low,31-07-2025
+Patient_196,50,Pneumonia,Ward E,60,134,35,Low,31-08-2025
+Patient_197,57,Pneumonia,Ward A,90,137,57,Low,31-10-2025
+Patient_198,56,Hypertension,Ward B,66,158,29,Low,31-01-2025
+Patient_199,18,Hypertension,Ward A,65,128,32,Low,31-07-2025
+Patient_200,28,Heart Disease,Ward A,53,124,58,Low,31-05-2025
+Patient_201,74,Asthma,Ward D,68,122,58,Low,31-10-2025
+Patient_202,67,Heart Disease,Ward C,61,114,56,Low,31-01-2025
+Patient_203,40,Hypertension,Ward E,91,125,33,Low,31-03-2025
+Patient_204,48,Hypertension,Ward A,85,115,43,Low,31-07-2025
+Patient_205,59,Diabetes,Ward E,68,122,46,Low,31-10-2025
+Patient_206,24,Hypertension,Ward A,97,139,42,Low,31-01-2025
+Patient_207,33,Diabetes,Ward B,84,104,62,Moderate,31-07-2025
+Patient_208,77,Asthma,Ward A,71,137,69,Moderate,31-05-2025
+Patient_209,19,Heart Disease,Ward D,50,139,16,Low,31-01-2025
+Patient_210,18,Heart Disease,Ward C,97,118,46,Low,31-01-2025
+Patient_211,65,Diabetes,Ward B,61,88,57,Low,31-01-2025
+Patient_212,29,Heart Disease,Ward A,58,110,51,Low,30-11-2025
+Patient_213,86,Hypertension,Ward E,85,139,91,High,30-09-2025
+Patient_214,54,Pneumonia,Ward B,99,119,44,Low,30-11-2025
+Patient_215,49,Diabetes,Ward B,88,105,41,Low,31-03-2025
+Patient_216,26,Heart Disease,Ward A,80,112,23,Low,31-05-2025
+Patient_217,36,Diabetes,Ward B,80,132,43,Low,30-11-2025
+Patient_218,65,Diabetes,Ward E,83,128,65,Moderate,31-10-2025
+Patient_219,20,Pneumonia,Ward B,82,116,53,Low,31-12-2025
+Patient_220,37,Hypertension,Ward E,77,114,43,Low,30-09-2025
+Patient_221,41,Diabetes,Ward A,76,114,41,Low,30-06-2025
+Patient_222,71,Heart Disease,Ward C,74,106,59,Low,31-12-2025
+Patient_223,50,Asthma,Ward B,67,144,38,Low,30-09-2025
+Patient_224,41,Diabetes,Ward C,72,115,74,Moderate,31-08-2025
+Patient_225,89,Diabetes,Ward E,58,138,40,Low,31-08-2025
+Patient_226,53,Pneumonia,Ward B,74,142,55,Low,31-01-2025
+Patient_227,55,Hypertension,Ward D,65,134,78,Moderate,30-09-2025
+Patient_228,42,Asthma,Ward C,63,113,43,Low,30-06-2025
+Patient_229,35,Heart Disease,Ward B,76,126,42,Low,30-09-2025
+Patient_230,83,Asthma,Ward C,88,119,62,Moderate,31-03-2025
+Patient_231,71,Heart Disease,Ward B,84,106,58,Low,31-12-2025
+Patient_232,52,Hypertension,Ward A,59,124,66,Moderate,31-03-2025
+Patient_233,78,Heart Disease,Ward C,65,102,27,Low,30-06-2025
+Patient_234,58,Pneumonia,Ward D,84,137,78,Moderate,30-09-2025
+Patient_235,50,Pneumonia,Ward D,65,113,27,Low,31-07-2025
+Patient_236,85,Pneumonia,Ward E,72,123,60,Low,31-03-2025
+Patient_237,50,Pneumonia,Ward B,80,124,45,Low,31-03-2025
+Patient_238,31,Asthma,Ward C,65,116,47,Low,28-02-2025
+Patient_239,38,Hypertension,Ward E,76,128,23,Low,30-09-2025
+Patient_240,65,Heart Disease,Ward C,61,112,58,Low,31-03-2025
+Patient_241,37,Heart Disease,Ward B,68,133,72,Moderate,30-11-2025
+Patient_242,25,Pneumonia,Ward D,78,99,20,Low,31-05-2025
+Patient_243,24,Pneumonia,Ward A,59,121,37,Low,30-09-2025
+Patient_244,84,Diabetes,Ward D,79,149,58,Low,31-08-2025
+Patient_245,34,Hypertension,Ward E,74,104,48,Low,28-02-2025
+Patient_246,50,Asthma,Ward A,80,109,51,Low,31-03-2025
+Patient_247,65,Heart Disease,Ward E,77,127,48,Low,28-02-2025
+Patient_248,76,Diabetes,Ward B,88,122,71,Moderate,31-08-2025
+Patient_249,39,Diabetes,Ward A,76,125,71,Moderate,30-06-2025
+Patient_250,47,Heart Disease,Ward E,70,127,45,Low,30-06-2025
+Patient_251,55,Asthma,Ward B,76,129,63,Moderate,31-12-2025
+Patient_252,68,Diabetes,Ward D,80,136,42,Low,30-09-2025
+Patient_253,71,Diabetes,Ward B,75,126,46,Low,31-08-2025
+Patient_254,25,Hypertension,Ward C,75,116,46,Low,30-04-2025
+Patient_255,44,Asthma,Ward B,67,130,66,Moderate,31-12-2025
+Patient_256,44,Diabetes,Ward B,68,148,52,Low,30-04-2025
+Patient_257,38,Asthma,Ward C,60,118,36,Low,30-09-2025
+Patient_258,47,Heart Disease,Ward E,92,105,52,Low,31-01-2025
+Patient_259,45,Pneumonia,Ward E,62,136,28,Low,28-02-2025
+Patient_260,81,Diabetes,Ward B,68,118,69,Moderate,28-02-2025
+Patient_261,86,Hypertension,Ward C,67,87,73,Moderate,30-06-2025
+Patient_262,78,Heart Disease,Ward C,83,132,58,Low,30-04-2025
+Patient_263,65,Asthma,Ward D,72,111,48,Low,30-11-2025
+Patient_264,36,Heart Disease,Ward E,87,118,51,Low,31-10-2025
+Patient_265,21,Diabetes,Ward A,68,124,30,Low,31-03-2025
+Patient_266,52,Asthma,Ward E,77,122,50,Low,31-03-2025
+Patient_267,81,Pneumonia,Ward E,66,130,90,High,31-03-2025
+Patient_268,66,Heart Disease,Ward D,96,113,58,Low,30-06-2025
+Patient_269,34,Diabetes,Ward A,63,127,35,Low,31-08-2025
+Patient_270,61,Hypertension,Ward D,78,116,46,Low,30-11-2025
+Patient_271,47,Asthma,Ward A,81,131,61,Moderate,31-07-2025
+Patient_272,63,Heart Disease,Ward B,79,129,54,Low,30-04-2025
+Patient_273,23,Heart Disease,Ward A,73,105,28,Low,30-11-2025
+Patient_274,54,Pneumonia,Ward D,73,136,70,Moderate,31-12-2025
+Patient_275,41,Pneumonia,Ward E,75,111,65,Moderate,30-04-2025
+Patient_276,63,Hypertension,Ward A,73,132,47,Low,30-11-2025
+Patient_277,70,Hypertension,Ward A,84,125,35,Low,31-10-2025
+Patient_278,77,Diabetes,Ward C,97,147,83,High,30-11-2025
+Patient_279,80,Diabetes,Ward E,69,116,51,Low,30-11-2025
+Patient_280,49,Hypertension,Ward B,61,114,56,Low,30-11-2025
+Patient_281,50,Hypertension,Ward D,74,119,22,Low,28-02-2025
+Patient_282,84,Asthma,Ward B,100,115,83,High,31-01-2025
+Patient_283,35,Pneumonia,Ward E,66,131,25,Low,30-09-2025
+Patient_284,42,Diabetes,Ward A,91,95,59,Low,31-12-2025
+Patient_285,71,Pneumonia,Ward A,91,104,62,Moderate,31-12-2025
+Patient_286,75,Pneumonia,Ward E,69,103,44,Low,28-02-2025
+Patient_287,84,Hypertension,Ward A,80,134,61,Moderate,31-08-2025
+Patient_288,63,Asthma,Ward A,91,145,71,Moderate,30-09-2025
+Patient_289,41,Heart Disease,Ward A,71,118,46,Low,30-04-2025
+Patient_290,49,Asthma,Ward D,72,117,56,Low,31-08-2025
+Patient_291,64,Asthma,Ward D,69,121,82,High,30-09-2025
+Patient_292,40,Pneumonia,Ward C,64,137,22,Low,31-10-2025
+Patient_293,83,Asthma,Ward B,68,106,83,High,31-10-2025
+Patient_294,44,Diabetes,Ward E,62,123,45,Low,31-05-2025
+Patient_295,19,Pneumonia,Ward E,75,134,25,Low,31-07-2025
+Patient_296,34,Diabetes,Ward E,67,127,23,Low,31-10-2025
+Patient_297,50,Heart Disease,Ward C,77,122,48,Low,30-04-2025
+Patient_298,26,Pneumonia,Ward D,59,135,49,Low,31-01-2025
+Patient_299,60,Heart Disease,Ward C,78,79,50,Low,31-03-2025
+Patient_300,65,Pneumonia,Ward E,83,130,80,Moderate,31-05-2025
+Patient_301,56,Hypertension,Ward B,55,110,26,Low,31-03-2025
+Patient_302,59,Asthma,Ward A,78,92,52,Low,31-12-2025
+Patient_303,43,Hypertension,Ward D,87,127,33,Low,30-11-2025
+Patient_304,67,Heart Disease,Ward D,62,140,60,Low,31-07-2025
+Patient_305,42,Asthma,Ward C,91,117,63,Moderate,31-12-2025
+Patient_306,41,Pneumonia,Ward D,79,134,42,Low,30-09-2025
+Patient_307,30,Asthma,Ward E,67,144,4,Low,31-12-2025
+Patient_308,77,Diabetes,Ward E,74,139,65,Moderate,30-06-2025
+Patient_309,24,Asthma,Ward C,80,144,48,Low,31-10-2025
+Patient_310,74,Diabetes,Ward E,75,131,66,Moderate,31-01-2025
+Patient_311,53,Asthma,Ward B,80,121,70,Moderate,31-07-2025
+Patient_312,62,Diabetes,Ward C,65,95,35,Low,31-03-2025
+Patient_313,37,Heart Disease,Ward B,76,116,54,Low,31-05-2025
+Patient_314,82,Hypertension,Ward A,60,107,75,Moderate,31-10-2025
+Patient_315,25,Pneumonia,Ward B,73,152,16,Low,30-04-2025
+Patient_316,33,Asthma,Ward A,65,117,44,Low,31-10-2025
+Patient_317,31,Hypertension,Ward A,67,121,33,Low,31-05-2025
+Patient_318,32,Pneumonia,Ward B,87,128,45,Low,31-05-2025
+Patient_319,83,Pneumonia,Ward C,85,120,71,Moderate,30-06-2025
+Patient_320,49,Diabetes,Ward E,81,145,46,Low,31-10-2025
+Patient_321,80,Heart Disease,Ward E,64,110,49,Low,31-12-2025
+Patient_322,68,Heart Disease,Ward A,71,122,57,Low,31-10-2025
+Patient_323,42,Hypertension,Ward A,87,108,34,Low,30-11-2025
+Patient_324,75,Heart Disease,Ward C,76,100,44,Low,30-06-2025
+Patient_325,80,Asthma,Ward D,98,110,78,Moderate,31-08-2025
+Patient_326,79,Heart Disease,Ward B,78,119,47,Low,31-08-2025
+Patient_327,39,Hypertension,Ward A,76,113,54,Low,30-11-2025
+Patient_328,75,Heart Disease,Ward E,71,109,65,Moderate,30-09-2025
+Patient_329,75,Asthma,Ward C,76,98,35,Low,31-08-2025
+Patient_330,66,Diabetes,Ward B,73,118,46,Low,30-11-2025
+Patient_331,69,Hypertension,Ward C,82,97,75,Moderate,28-02-2025
+Patient_332,59,Diabetes,Ward B,84,131,43,Low,31-12-2025
+Patient_333,87,Diabetes,Ward B,67,121,57,Low,31-10-2025
+Patient_334,32,Diabetes,Ward A,61,98,43,Low,31-12-2025
+Patient_335,71,Pneumonia,Ward C,56,115,64,Moderate,30-11-2025
+Patient_336,77,Pneumonia,Ward C,80,108,58,Low,31-01-2025
+Patient_337,25,Diabetes,Ward E,63,124,28,Low,31-10-2025
+Patient_338,70,Hypertension,Ward E,53,140,73,Moderate,28-02-2025
+Patient_339,77,Asthma,Ward A,78,91,84,High,28-02-2025
+Patient_340,22,Asthma,Ward A,99,121,58,Low,31-12-2025
+Patient_341,85,Heart Disease,Ward D,74,117,65,Moderate,31-03-2025
+Patient_342,23,Hypertension,Ward E,83,130,30,Low,31-10-2025
+Patient_343,64,Pneumonia,Ward B,75,123,44,Low,31-07-2025
+Patient_344,72,Diabetes,Ward C,74,108,65,Moderate,28-02-2025
+Patient_345,57,Heart Disease,Ward A,84,115,61,Moderate,31-01-2025
+Patient_346,69,Asthma,Ward C,72,108,76,Moderate,30-06-2025
+Patient_347,33,Pneumonia,Ward C,77,136,53,Low,30-09-2025
+Patient_348,30,Pneumonia,Ward D,78,120,21,Low,31-03-2025
+Patient_349,47,Diabetes,Ward E,68,148,63,Moderate,30-06-2025
+Patient_350,36,Asthma,Ward A,84,119,32,Low,31-03-2025
+Patient_351,34,Hypertension,Ward C,73,109,36,Low,31-01-2025
+Patient_352,80,Pneumonia,Ward A,67,97,62,Moderate,31-12-2025
+Patient_353,36,Diabetes,Ward B,80,92,71,Moderate,31-05-2025
+Patient_354,75,Hypertension,Ward D,66,96,100,High,31-10-2025
+Patient_355,72,Asthma,Ward B,75,124,68,Moderate,30-11-2025
+Patient_356,79,Pneumonia,Ward A,74,127,60,Low,30-04-2025
+Patient_357,40,Hypertension,Ward A,85,96,54,Low,31-07-2025
+Patient_358,26,Hypertension,Ward E,79,133,54,Low,30-06-2025
+Patient_359,29,Hypertension,Ward C,74,112,36,Low,31-10-2025
+Patient_360,18,Pneumonia,Ward C,83,122,64,Moderate,31-07-2025
+Patient_361,75,Pneumonia,Ward B,88,144,69,Moderate,31-05-2025
+Patient_362,18,Heart Disease,Ward D,80,133,46,Low,30-04-2025
+Patient_363,51,Asthma,Ward C,75,115,59,Low,31-07-2025
+Patient_364,65,Diabetes,Ward E,61,106,57,Low,31-07-2025
+Patient_365,18,Hypertension,Ward B,64,87,43,Low,30-06-2025
+Patient_366,33,Heart Disease,Ward B,71,109,32,Low,31-08-2025
+Patient_367,78,Diabetes,Ward E,68,116,51,Low,30-04-2025
+Patient_368,81,Heart Disease,Ward D,73,105,46,Low,31-10-2025
+Patient_369,80,Pneumonia,Ward E,75,118,68,Moderate,31-05-2025
+Patient_370,86,Hypertension,Ward D,80,121,77,Moderate,30-04-2025
+Patient_371,39,Diabetes,Ward E,74,116,51,Low,31-12-2025
+Patient_372,84,Diabetes,Ward E,79,110,88,High,31-01-2025
+Patient_373,43,Diabetes,Ward A,75,122,47,Low,31-12-2025
+Patient_374,33,Diabetes,Ward B,55,126,47,Low,31-08-2025
+Patient_375,68,Diabetes,Ward E,65,103,38,Low,31-01-2025
+Patient_376,74,Heart Disease,Ward E,73,141,55,Low,31-05-2025
+Patient_377,46,Hypertension,Ward C,62,118,54,Low,30-06-2025
+Patient_378,86,Pneumonia,Ward B,80,120,78,Moderate,30-06-2025
+Patient_379,64,Pneumonia,Ward C,90,130,56,Low,31-05-2025
+Patient_380,79,Pneumonia,Ward B,87,123,64,Moderate,31-03-2025
+Patient_381,86,Pneumonia,Ward C,72,134,44,Low,31-05-2025
+Patient_382,33,Heart Disease,Ward E,89,124,42,Low,31-12-2025
+Patient_383,65,Asthma,Ward E,76,110,68,Moderate,31-08-2025
+Patient_384,56,Hypertension,Ward A,71,125,60,Low,28-02-2025
+Patient_385,50,Diabetes,Ward C,68,102,54,Low,30-06-2025
+Patient_386,40,Asthma,Ward D,71,121,45,Low,30-09-2025
+Patient_387,27,Pneumonia,Ward A,71,119,39,Low,31-08-2025
+Patient_388,86,Asthma,Ward C,76,116,56,Low,30-11-2025
+Patient_389,51,Hypertension,Ward C,76,118,60,Low,31-08-2025
+Patient_390,69,Diabetes,Ward A,75,91,62,Moderate,31-08-2025
+Patient_391,27,Diabetes,Ward E,79,111,48,Low,31-07-2025
+Patient_392,36,Hypertension,Ward C,86,121,40,Low,31-08-2025
+Patient_393,75,Hypertension,Ward E,84,122,33,Low,30-06-2025
+Patient_394,18,Pneumonia,Ward A,60,104,46,Low,28-02-2025
+Patient_395,86,Diabetes,Ward E,49,138,52,Low,28-02-2025
+Patient_396,21,Asthma,Ward B,84,107,27,Low,31-08-2025
+Patient_397,33,Heart Disease,Ward D,61,134,49,Low,30-11-2025
+Patient_398,41,Heart Disease,Ward C,72,126,40,Low,31-01-2025
+Patient_399,19,Hypertension,Ward D,63,110,48,Low,30-06-2025
+Patient_400,49,Pneumonia,Ward E,56,146,54,Low,30-06-2025
+Patient_401,41,Heart Disease,Ward C,80,102,56,Low,30-11-2025
+Patient_402,29,Diabetes,Ward E,82,133,25,Low,30-04-2025
+Patient_403,67,Hypertension,Ward B,69,135,73,Moderate,31-12-2025
+Patient_404,52,Asthma,Ward A,49,109,46,Low,30-11-2025
+Patient_405,50,Hypertension,Ward C,69,140,44,Low,30-11-2025
+Patient_406,50,Asthma,Ward B,78,116,52,Low,31-10-2025
+Patient_407,78,Hypertension,Ward B,60,124,33,Low,31-03-2025
+Patient_408,68,Hypertension,Ward C,76,123,64,Moderate,30-11-2025
+Patient_409,60,Hypertension,Ward E,74,117,39,Low,31-03-2025
+Patient_410,29,Asthma,Ward B,80,132,24,Low,31-01-2025
+Patient_411,84,Asthma,Ward D,76,131,44,Low,31-03-2025
+Patient_412,82,Hypertension,Ward B,65,93,74,Moderate,30-04-2025
+Patient_413,50,Heart Disease,Ward E,86,139,45,Low,30-11-2025
+Patient_414,57,Pneumonia,Ward E,73,95,72,Moderate,30-11-2025
+Patient_415,60,Pneumonia,Ward D,74,135,47,Low,31-05-2025
+Patient_416,61,Pneumonia,Ward B,65,136,29,Low,31-03-2025
+Patient_417,46,Asthma,Ward E,70,103,30,Low,30-06-2025
+Patient_418,30,Asthma,Ward C,66,113,56,Low,30-11-2025
+Patient_419,29,Heart Disease,Ward A,73,103,37,Low,31-12-2025
+Patient_420,63,Pneumonia,Ward A,92,116,52,Low,31-05-2025
+Patient_421,19,Pneumonia,Ward A,61,115,35,Low,31-03-2025
+Patient_422,52,Hypertension,Ward B,58,131,54,Low,30-06-2025
+Patient_423,25,Asthma,Ward D,89,139,60,Low,30-06-2025
+Patient_424,43,Pneumonia,Ward E,72,140,68,Moderate,31-08-2025
+Patient_425,51,Heart Disease,Ward C,68,111,43,Low,28-02-2025
+Patient_426,24,Heart Disease,Ward C,85,116,23,Low,31-01-2025
+Patient_427,85,Pneumonia,Ward B,68,94,55,Low,30-04-2025
+Patient_428,75,Asthma,Ward A,93,107,68,Moderate,31-07-2025
+Patient_429,46,Heart Disease,Ward B,81,134,37,Low,30-11-2025
+Patient_430,53,Hypertension,Ward D,70,144,38,Low,31-10-2025
+Patient_431,38,Heart Disease,Ward D,96,101,54,Low,31-03-2025
+Patient_432,53,Diabetes,Ward E,68,111,48,Low,31-03-2025
+Patient_433,27,Diabetes,Ward E,82,119,42,Low,31-05-2025
+Patient_434,41,Asthma,Ward D,77,124,36,Low,31-05-2025
+Patient_435,81,Pneumonia,Ward D,88,107,62,Moderate,31-10-2025
+Patient_436,66,Asthma,Ward D,90,126,48,Low,31-03-2025
+Patient_437,53,Asthma,Ward B,75,112,63,Moderate,30-09-2025
+Patient_438,41,Asthma,Ward D,67,119,58,Low,30-04-2025
+Patient_439,40,Asthma,Ward C,79,128,21,Low,31-03-2025
+Patient_440,79,Hypertension,Ward A,68,120,47,Low,30-11-2025
+Patient_441,54,Hypertension,Ward D,95,113,36,Low,28-02-2025
+Patient_442,29,Heart Disease,Ward A,76,118,32,Low,31-10-2025
+Patient_443,72,Diabetes,Ward B,71,118,57,Low,30-11-2025
+Patient_444,30,Asthma,Ward A,76,114,21,Low,30-09-2025
+Patient_445,40,Heart Disease,Ward B,61,116,29,Low,30-04-2025
+Patient_446,47,Diabetes,Ward C,65,143,33,Low,31-03-2025
+Patient_447,34,Pneumonia,Ward B,87,128,50,Low,31-07-2025
+Patient_448,79,Hypertension,Ward B,68,115,61,Moderate,31-08-2025
+Patient_449,30,Diabetes,Ward E,64,130,29,Low,30-11-2025
+Patient_450,76,Pneumonia,Ward D,80,114,64,Moderate,28-02-2025
+Patient_451,36,Diabetes,Ward D,86,137,41,Low,31-07-2025
+Patient_452,66,Hypertension,Ward C,82,125,55,Low,31-12-2025
+Patient_453,29,Hypertension,Ward C,84,118,67,Moderate,31-05-2025
+Patient_454,78,Heart Disease,Ward D,67,126,78,Moderate,30-11-2025
+Patient_455,36,Asthma,Ward E,60,96,20,Low,31-05-2025
+Patient_456,26,Diabetes,Ward D,90,103,54,Low,31-03-2025
+Patient_457,88,Diabetes,Ward E,71,102,75,Moderate,31-05-2025
+Patient_458,45,Pneumonia,Ward C,72,122,31,Low,31-12-2025
+Patient_459,69,Hypertension,Ward A,88,145,75,Moderate,28-02-2025
+Patient_460,33,Diabetes,Ward C,80,153,68,Moderate,30-04-2025
+Patient_461,86,Hypertension,Ward C,79,129,51,Low,30-06-2025
+Patient_462,29,Diabetes,Ward B,96,127,35,Low,31-01-2025
+Patient_463,42,Heart Disease,Ward B,68,92,57,Low,31-10-2025
+Patient_464,69,Asthma,Ward B,84,111,63,Moderate,30-04-2025
+Patient_465,70,Diabetes,Ward B,75,108,65,Moderate,30-06-2025
+Patient_466,40,Hypertension,Ward E,77,110,50,Low,30-09-2025
+Patient_467,33,Heart Disease,Ward D,90,117,52,Low,30-11-2025
+Patient_468,74,Diabetes,Ward A,80,112,42,Low,30-11-2025
+Patient_469,56,Pneumonia,Ward C,80,90,66,Moderate,28-02-2025
+Patient_470,70,Asthma,Ward E,85,131,78,Moderate,30-11-2025
+Patient_471,59,Diabetes,Ward A,71,103,48,Low,31-07-2025
+Patient_472,75,Heart Disease,Ward E,66,123,57,Low,30-06-2025
+Patient_473,56,Pneumonia,Ward E,64,151,30,Low,28-02-2025
+Patient_474,31,Heart Disease,Ward C,55,106,42,Low,31-08-2025
+Patient_475,22,Heart Disease,Ward D,95,82,49,Low,31-07-2025
+Patient_476,52,Pneumonia,Ward B,63,115,46,Low,30-11-2025
+Patient_477,35,Heart Disease,Ward D,72,136,59,Low,31-05-2025
+Patient_478,26,Pneumonia,Ward C,72,149,36,Low,31-12-2025
+Patient_479,75,Diabetes,Ward C,78,101,68,Moderate,31-05-2025
+Patient_480,34,Pneumonia,Ward C,83,127,32,Low,31-07-2025
+Patient_481,24,Pneumonia,Ward A,83,113,40,Low,30-09-2025
+Patient_482,63,Asthma,Ward D,69,118,51,Low,30-11-2025
+Patient_483,30,Pneumonia,Ward D,73,159,47,Low,30-09-2025
+Patient_484,57,Pneumonia,Ward E,77,97,47,Low,30-09-2025
+Patient_485,59,Diabetes,Ward E,72,123,51,Low,30-06-2025
+Patient_486,26,Asthma,Ward E,91,127,56,Low,31-10-2025
+Patient_487,67,Hypertension,Ward C,79,136,53,Low,30-06-2025
+Patient_488,44,Diabetes,Ward D,82,121,27,Low,31-03-2025
+Patient_489,83,Diabetes,Ward C,81,124,90,High,31-01-2025
+Patient_490,22,Hypertension,Ward A,86,114,60,Low,31-07-2025
+Patient_491,46,Pneumonia,Ward E,76,124,31,Low,30-04-2025
+Patient_492,54,Heart Disease,Ward C,62,114,57,Low,31-01-2025
+Patient_493,55,Asthma,Ward C,78,129,46,Low,31-08-2025
+Patient_494,25,Heart Disease,Ward A,68,114,41,Low,31-12-2025
+Patient_495,82,Hypertension,Ward B,69,125,66,Moderate,30-06-2025
+Patient_496,34,Diabetes,Ward D,80,119,41,Low,30-06-2025
+Patient_497,88,Diabetes,Ward B,87,136,59,Low,28-02-2025
+Patient_498,62,Asthma,Ward E,75,119,45,Low,31-01-2025
+Patient_499,21,Diabetes,Ward C,78,93,24,Low,28-02-2025
+Patient_500,53,Diabetes,Ward A,92,138,45,Low,30-04-2025
