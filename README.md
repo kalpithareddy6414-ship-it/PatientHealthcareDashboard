@@ -10,17 +10,17 @@ to identify risk patterns using heart rate, age, and diagnosis.
 - Ward and diagnosis insights
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+<img width="250" height="250" alt="Screenshot 2026-05-06 230315" src="https://github.com/user-attachments/assets/2fbaae87-d65c-4c16-aa85-e5bb70b8ea01" />
 
----
+<img width="250" height="250" alt="Screenshot 2026-05-06 230219" src="https://github.com/user-attachments/assets/25c68491-3e76-4d8d-8ced-a45593ff6e93" />
 
-## Dataset Preview
-![Data](images/data_preview.png)
+
+
 
 ## Files Included
-- 'patient_data.xlsx` → dataset
-- `healthcare_dashboard.twbx` → Tableau file
-- `dashboard.png` → visualization output
+- patient_data.xlsx → dataset
+- healthcare_dashboard.twbx → Tableau file
+- dashboard.png → visualization output
 
 ##  Insights
 - High-risk patients have significantly higher risk scores
